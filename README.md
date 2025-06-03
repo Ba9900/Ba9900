@@ -19,18 +19,21 @@ Education:
   - National Diploma in Information Technology - Business Applications
   - IT Essential Certificate
   - Cybersecurity Short Course
-experience:
+Experience:
   - E-cadre at Department of Education (9 months)
   - Re-assembler at Department of Home Affairs (10 months)
-specialties:
+Specialties:
   - IT Support & Troubleshooting
   - Business Applications
   - Cybersecurity Fundamentals
   - Home Design
-interests: 
+Interests: 
   - Technology Integration in Design
   - Process Optimization
   - Continuous Learning
+  - Web Development
+  - App Development
+  - Providing Technical support
 ```
 
 I'm an IT professional with a passion for combining technical expertise with creative design solutions. With experience in government IT sectors and a background in home design, I bring a unique perspective to technology implementation that balances functionality with aesthetics.
