@@ -57,8 +57,8 @@ I'm an IT professional with a passion for combining technical expertise with cre
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Ba9900" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ba9900&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?"Ba9900" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user="Ba9900&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🚀 Featured Projects
