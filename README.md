@@ -12,10 +12,10 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Banele Mditshwa
-username: Ba9900
-location: South Africa
-education: 
+Name: Banele Mditshwa
+Username: Ba9900
+Location: Rustenburg South Africa
+Education: 
   - National Diploma in Information Technology - Business Applications
   - IT Essential Certificate
   - Cybersecurity Short Course
